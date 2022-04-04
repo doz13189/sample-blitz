@@ -4,6 +4,10 @@ This is a [Blitz.js](https://github.com/blitz-js/blitz) app.
 
 # **sample-blitz**
 
+## Test
+
+hello world !!
+
 ## Getting Started
 
 Run your app in the development mode.
